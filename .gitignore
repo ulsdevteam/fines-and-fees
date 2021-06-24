@@ -1,0 +1,12 @@
+common.env
+
+done/*
+working/*
+pending/*
+parsed/*
+
+!done/.gitkeep
+!working/.gitkeep
+!pending/.gitkeep
+!parsed/.gitkeep
+
